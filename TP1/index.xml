@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!-- Index of TP1 -->
+
+<repertoire>
+
+  <!-- John Doe-->
+  <contact>
+    <sexe>Homme</sexe>
+    <nom>Doe</nom>
+    <prenom>John</prenom>
+    <adresse>5 Avenue de la cathédrale</adresse>
+    <mail type="perso">jdoe15@mail.com</mail>
+    <mail type="pro">john.doe@entreprise.com</mail>
+    <telephone type="fixe">03 29 55 55 36</telephone>
+    <telephone type="portable">06 15 24 29 87</telephone>
+  </contact>
+  
+  <!-- Jane McKali -->
+  <contact>
+    <sexe>Femme</sexe>
+    <nom>McKali</nom>
+    <prenom>Jane</prenom>
+    <adresse>15 Boulevard Richelieux</adresse>
+    <mail type="perso">jmck@mail.com</mail>
+    <mail type="pro">none</mail>
+    <telephone type="fixe">03 16 25 25 48</telephone>
+    <telephone type="portable">06 89 87 26 35</telephone>
+  </contact>
+  
+</repertoire>
